@@ -1,0 +1,36 @@
+
+
+body{
+ background: rgba(42, 81, 190, 0.671);
+ font: normal 15pt Arial;
+/*
+ background: rgb(223, 199, 96); manha
+ background: rgb(209, 107, 23); tarde
+ background: rgba(8, 37, 77, 0.527); noite
+*/
+ 
+ 
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
